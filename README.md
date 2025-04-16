@@ -1,10 +1,13 @@
 ## 💻​ Ricardo Tormen 
 <p>
-  	 Meu nome é <strong>Ricardo</strong>, tenho formação em Agronomia e experiência no setor comercial e atendimento ao cliente, tive a oportunidade de viver e trabalhar em mais de cinco países em trabalhos diversos, o que expandiu minha visão global e aprimorou habilidades essenciais, como adaptabilidade, comunicação e resolução de problemas.
-    Atualmente, me considero um novo apaixonado pela área de testes de software, estou em transição de carreira, com foco em melhorar a qualidade e a experiência do usuário. Utilizo metodologias avançadas para otimizar processos e resultados, sempre com o objetivo de garantir que as soluções entregues sejam eficientes, intuitivas e funcionais. Estou constantemente buscando novos conhecimentos para garantir que minhas habilidades permaneçam alinhadas com as demandas do mercado e as tendências da indústria.
+  	Hi, Im a QA Engineer with hands-on experience in manual and automated testing (Cypress), API testing (Postman), SQL, and
+Agile methodologies (Scrum/Kanban).
+Skilled in bug tracking (Jira/TestRail), test documentation, and quality assurance across the development lifecycle.
+Strong focus on user experience, technical accuracy, and business alignment.
+Collaborative, detail-oriented, with strong communication and problem-solving skills in fast-paced environments
 </p>
 <p>
-    Siga-me nas minhas redes sociais: 
+    Follow me: 
     <a href="https://www.linkedin.com/in/ricardo-tormen-18a895150/" target="_blank">LinkedIn</a> | 
     <a href="https://www.instagram.com/rickztmj/" target="_blank">Instagram</a>
 </p>
