@@ -1,4 +1,6 @@
-## 💻​ Ricardo Tormen 
+### 👨‍💻 QA Engineer | Ricardo Tormen
+📍 Br - EU Citizen
+
 <p>
   	Hi, Im a QA Engineer with hands-on experience in manual and automated testing (Cypress), API testing (Postman), SQL, and
 Agile methodologies (Scrum/Kanban).
@@ -7,15 +9,16 @@ Strong focus on user experience, technical accuracy, and business alignment.
 Collaborative, detail-oriented, with strong communication and problem-solving skills in fast-paced environments
 </p>
 <p>
-    Follow me: 
-    <a href="https://www.linkedin.com/in/ricardo-tormen-18a895150/" target="_blank">LinkedIn</a> | 
-    <a href="https://www.instagram.com/rickztmj/" target="_blank">Instagram</a>
+    
+##### 🌐 Connect With Me
+<p align="left">
+<a href="https://www.linkedin.com/in/ricardo-tormen-18a895150/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a><a href="https://github.com/rickztmj"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a><a href="mailto:tmnricks@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a><a href="https://wa.me/31643201925"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp"></a><a href="https://t.me/ricardotormen"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"></a>
 </p>
+
 
 <!-- Barra de separação com texto no meio -->
 <div style="text-align: center; position: relative; margin: 20px 0;">
-    <hr style="border: 1px solid #ccc; margin: 0; width: 80%;"/>
-    
+    <hr style="border: 1px solid #ccc; margin: 0; width: 80%;"/>    
 
 #### 🖥️​ Linguagens e Tecnologias ​
 
@@ -106,9 +109,15 @@ Collaborative, detail-oriented, with strong communication and problem-solving sk
 <div style="text-align: center; position: relative; margin: 0px 0;">
     <hr style="border: 1px solid #ccc; margin: 0; width: 0%;"/>
 
-	
+
+<div align="left" style="background: linear-gradient(135deg, #f0f0f0, #e0e0e0); border: 2px solid #ccc; border-radius: 12px; padding: 20px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); width: fit-content;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4000&pause=1500&color=000000&width=800&lines=QA+n%C3%A3o+%C3%A9+s%C3%B3+encontrar+bugs%2C+%C3%A9+garantir+qualidade+em+cada+etapa%2C;Colaborando+ativamente+para+a+constru%C3%A7%C3%A3o+de+um+produto+melhor." alt="Filosofia QA">
+</div>
 
 
- 
+
+
+
+
 	
 
