@@ -1,5 +1,5 @@
 ### 👨‍💻 QA Engineer | Ricardo Tormen
-📍 Br - EU Citizen
+📍 BR - EU Citizen
 
 <p>
   	Hi, Im a QA Engineer with hands-on experience in manual and automated testing (Cypress), API testing (Postman), SQL, and
